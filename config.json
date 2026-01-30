@@ -1,0 +1,33 @@
+{
+  "scan_interval_seconds": 240,
+  "max_items_per_site": 25,
+
+  "phash_distance_threshold": 8,
+
+  "queries": [
+    "nike trail",
+    "nike running",
+    "under armour",
+    "windrunner",
+    "running division",
+    "tempo machine"
+  ],
+
+  "carousell_domains": [
+    "carousell.sg",
+    "carousell.com.hk",
+    "carousell.ph",
+    "carousell.com.my",
+    "carousell.com.tw",
+    "carousell.co.id"
+  ],
+
+  "sites_enabled": {
+    "mercari_jp": true,
+    "mercari_us": true,
+    "bunjang_global": true,
+    "carousell": true,
+    "zozoused": true,
+    "grailed": true
+  }
+}
