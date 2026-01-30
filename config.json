@@ -27,7 +27,7 @@
     "mercari_us": true,
     "bunjang_global": true,
     "carousell": true,
-    "zozoused": true,
+    "zozoused": false,
     "grailed": true
   }
 }
